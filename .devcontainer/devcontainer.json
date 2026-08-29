@@ -3,5 +3,6 @@
   "build": {
     "dockerfile": "Dockerfile"
   },
-  "remoteUser": "root"
+  "remoteUser": "root",
+  "postCreateCommand": "python -m pip install -e '.[dev]'"
 }
