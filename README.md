@@ -1,0 +1,1 @@
+A command-line tool that evaluates basic website quality signals for agency workflows.
